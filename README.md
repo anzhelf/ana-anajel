@@ -1,11 +1,11 @@
-## Привет, меня зовут Анжелика
-- Я начинающий web разработчик. Заканчиваю курс от Яндекс Практикума.
-- Хочу прокачаться в web разработке на реальных боевых проектах.
-- Так же хочу работать с опытными коллегами.
-- Писать чистый и читабельный код.
+## Привет, меня зовут Анжелика 👋
+- 🌱 Я начинающий web разработчик. Заканчиваю курс от Яндекс Практикума.
+- 🔥 Хочу прокачаться в web разработке на реальных боевых проектах.
+- 🔞 Так же хочу работать с опытными коллегами.
+- ✍️ Писать чистый и читабельный код.
 
 
-### Мои скилы:
+### 🛠 Мои скилы:
 ![JavaScript](https://img.shields.io/badge/javascript-070506?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-070506?style=for-the-badge&logo=css3&logoColor=afa600)
 ![HTML5](https://img.shields.io/badge/html5-070506?style=for-the-badge&logo=html5&logoColor=ea5f00)
@@ -18,9 +18,9 @@
 ![Figma](https://img.shields.io/badge/figma-070506?style=for-the-badge&logo=figma&logoColor=a25aff)
 ![Notion](https://img.shields.io/badge/Notion-070506?style=for-the-badge&logo=notion&logoColor=white)
 
-### Связаться со мной:
+### 🚀 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-070506?style=for-the-badge&logo=Telegram&logoColor=28bcfe)](https://telegram.me/anaazhel)
 
-### Моя статистика:
+### 🏆 Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-anajel&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-anajel&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
