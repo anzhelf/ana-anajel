@@ -4,7 +4,6 @@
 - 🔞 Так же хочу работать с опытными коллегами.
 - ✍️ Писать чистый и читабельный код.
 
-
 ### 🛠 Мои скилы:
 ![JavaScript](https://img.shields.io/badge/javascript-070506?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-070506?style=for-the-badge&logo=css3&logoColor=afa600)
@@ -22,5 +21,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-070506?style=for-the-badge&logo=Telegram&logoColor=28bcfe)](https://telegram.me/anaazhel)
 
 ### 🏆 Моя статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-anajel&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-anajel&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-anajel&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
