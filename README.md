@@ -1,4 +1,4 @@
-## Привет, меня зовут Анжелика!
+## Привет, меня зовут Анжелика
 - Я начинающий web разработчик. Заканчиваю курс от Яндекс Практикума.
 - Хочу прокачаться в web разработке на реальных боевых проектах.
 - Так же хочу работать с опытными коллегами.
@@ -18,9 +18,10 @@
 ![Figma](https://img.shields.io/badge/figma-070506?style=for-the-badge&logo=figma&logoColor=a25aff)
 ![Notion](https://img.shields.io/badge/Notion-070506?style=for-the-badge&logo=notion&logoColor=white)
 
-## Связаться со мной:
+### Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-070506?style=for-the-badge&logo=Telegram&logoColor=28bcfe)](https://telegram.me/anaazhel)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-anajel&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Моя статистика:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-anajel&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-anajel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-anajel&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
