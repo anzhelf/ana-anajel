@@ -23,7 +23,7 @@
 
 
 ## Связаться со мной:
-![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=Telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/anaazhel)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-anajel&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
