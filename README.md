@@ -1,4 +1,4 @@
-[![Header](https://github.com/ana-anajel/ana-anajel/blob/main/assets/IMG_4539.PNG)](https://github.com/ana-anajel)
+[![Header](https://github.com/ana-anajel/ana-anajel/tree/main/assets)](https://github.com/ana-anajel)
 
 About me
 
