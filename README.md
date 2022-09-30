@@ -11,6 +11,7 @@
 ![HTML5](https://img.shields.io/badge/html5-070506?style=for-the-badge&logo=html5&logoColor=ea5f00)
 ![BEM Nested](https://img.shields.io/badge/BEM%20Nested-070506?style=for-the-badge&logo=BEM&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-070506?style=for-the-badge&logo=visual-studio-code&logoColor=28bcfe)
+
 ![NodeJS](https://img.shields.io/badge/node.js-070506?style=for-the-badge&logo=node.js&logoColor=afa600)
 ![Git](https://img.shields.io/badge/git-070506?style=for-the-badge&logo=git&logoColor=ea5f00)
 ![Webpack](https://img.shields.io/badge/webpack-070506?style=for-the-badge&logo=webpack&logoColor=28bcfe)
