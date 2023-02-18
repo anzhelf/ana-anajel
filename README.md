@@ -1,6 +1,6 @@
 ## Привет, меня зовут Анжелика 👋
-- 🌱 Я начинающий web разработчик. Заканчиваю курс от Яндекс Практикума.
-- 🔥 Хочу прокачаться в web разработке на реальных боевых проектах.
+- 🌱 Я web разработчик. Заканчиваю курс от Яндекс Практикума.
+- 🔥 Хочу прокачиваться в web разработке на реальных боевых проектах.
 - 🔞 Также хочу работать с опытными коллегами.
 - ✍️ Писать чистый и читабельный код.
 
@@ -18,7 +18,7 @@
 ![Notion](https://img.shields.io/badge/Notion-070506?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚀 Связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-070506?style=for-the-badge&logo=Telegram&logoColor=28bcfe)](https://telegram.me/anaazhel)
+[![Telegram](https://img.shields.io/badge/Telegram-070506?style=for-the-badge&logo=Telegram&logoColor=28bcfe)](https://telegram.me/anzhelf)
 
 ### 🏆 Моя статистика:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-anajel&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
