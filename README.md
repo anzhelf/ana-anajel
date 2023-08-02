@@ -7,7 +7,7 @@
 🔥 Сейчас продолжаю развиваться в веб-разработке. Недавно принимала участие в хакатоне и пет-проекте по отслеживанию парковок в Москве. Оба проекта были командными.
 
 ### 🚀 Связаться со мной:
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/anzhelf)
 
 ### 🛠 Мои скилы:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
