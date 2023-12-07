@@ -1,6 +1,6 @@
 # Привет, я Анжелика <img alt="img" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
-### Обо мне: 
+## Обо мне: 
 
 🌱 Я фронтенд-разработчик.
 - Владею версткой, JS, React и основами бэкенда на Node.js.
@@ -12,10 +12,10 @@
 
 💙 Люблю пешие прогулки и сейчас активно занимаюсь фитнесом.
 
-### 🚀 Связаться со мной:
+## 🚀 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/anzhelf)
 
-### 🛠 Мои скилы:
+## 🛠 Мои скилы:
 `HTML5` `CSS3` `SASS` `JavaScript` `TypeScript` `React` `Redux` `Next.js` `Storybook`\
 `Git` `Webpack` `NodeJS` `Express.js` `MongoDB` `Nginx` `Figma` `Visual Studio Code`
 
