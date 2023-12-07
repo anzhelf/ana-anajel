@@ -1,4 +1,4 @@
-## Привет, я Анжелика <img alt="img" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+# Привет, я Анжелика <img alt="img" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 ### Обо мне: 
 
